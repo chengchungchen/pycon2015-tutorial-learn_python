@@ -1,1 +1,1 @@
-# PyCON2015 Tutorial: Learn Python, the Right Way
+# PyCON2015 Tutorial: Learn Python, the Right Way.
